@@ -15,8 +15,6 @@ i3 screenshot
 Commands to install i3wm.
 
 ```
-
 sudo apt-get update
 sudo apt-get install i3
-
 ```
