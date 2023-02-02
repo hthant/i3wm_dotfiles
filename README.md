@@ -9,4 +9,14 @@ Specs for these files:
 - Kernel - 5.15
 - Base System - Lubuntu 22.04_x86_64
 
+i3 screenshot
 ![Screenshot](screenshot.png)
+
+Commands to install i3wm.
+
+```
+
+sudo apt-get update
+sudo apt-get install i3
+
+```
