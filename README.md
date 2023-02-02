@@ -18,3 +18,7 @@ Commands to install i3wm.
 sudo apt-get update
 sudo apt-get install i3
 ```
+
+Font Awesome Cheatsheet links:
+https://fontawesome.com/v4/cheatsheet
+https://fontawesome.com/v5/cheatsheet
