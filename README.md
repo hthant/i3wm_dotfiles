@@ -1,4 +1,4 @@
-# i3wm Dotfiles
+# i3wm Setup
 
 Specs for these files:
 - Laptop - HP Spectre x360 ae000
